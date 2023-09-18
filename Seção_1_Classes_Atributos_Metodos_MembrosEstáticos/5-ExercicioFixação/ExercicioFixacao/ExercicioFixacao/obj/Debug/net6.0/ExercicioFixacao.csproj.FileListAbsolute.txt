@@ -1,0 +1,14 @@
+C:\Users\Emerson Oliveira\Documents\CSharp-Completo-POO\Seção_1_Classes_Atributos_Metodos_MembrosEstáticos\5-ExercicioFixação\ExercicioFixacao\ExercicioFixacao\bin\Debug\net6.0\ExercicioFixacao.exe
+C:\Users\Emerson Oliveira\Documents\CSharp-Completo-POO\Seção_1_Classes_Atributos_Metodos_MembrosEstáticos\5-ExercicioFixação\ExercicioFixacao\ExercicioFixacao\bin\Debug\net6.0\ExercicioFixacao.deps.json
+C:\Users\Emerson Oliveira\Documents\CSharp-Completo-POO\Seção_1_Classes_Atributos_Metodos_MembrosEstáticos\5-ExercicioFixação\ExercicioFixacao\ExercicioFixacao\bin\Debug\net6.0\ExercicioFixacao.runtimeconfig.json
+C:\Users\Emerson Oliveira\Documents\CSharp-Completo-POO\Seção_1_Classes_Atributos_Metodos_MembrosEstáticos\5-ExercicioFixação\ExercicioFixacao\ExercicioFixacao\bin\Debug\net6.0\ExercicioFixacao.dll
+C:\Users\Emerson Oliveira\Documents\CSharp-Completo-POO\Seção_1_Classes_Atributos_Metodos_MembrosEstáticos\5-ExercicioFixação\ExercicioFixacao\ExercicioFixacao\bin\Debug\net6.0\ExercicioFixacao.pdb
+C:\Users\Emerson Oliveira\Documents\CSharp-Completo-POO\Seção_1_Classes_Atributos_Metodos_MembrosEstáticos\5-ExercicioFixação\ExercicioFixacao\ExercicioFixacao\obj\Debug\net6.0\ExercicioFixacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emerson Oliveira\Documents\CSharp-Completo-POO\Seção_1_Classes_Atributos_Metodos_MembrosEstáticos\5-ExercicioFixação\ExercicioFixacao\ExercicioFixacao\obj\Debug\net6.0\ExercicioFixacao.AssemblyInfoInputs.cache
+C:\Users\Emerson Oliveira\Documents\CSharp-Completo-POO\Seção_1_Classes_Atributos_Metodos_MembrosEstáticos\5-ExercicioFixação\ExercicioFixacao\ExercicioFixacao\obj\Debug\net6.0\ExercicioFixacao.AssemblyInfo.cs
+C:\Users\Emerson Oliveira\Documents\CSharp-Completo-POO\Seção_1_Classes_Atributos_Metodos_MembrosEstáticos\5-ExercicioFixação\ExercicioFixacao\ExercicioFixacao\obj\Debug\net6.0\ExercicioFixacao.csproj.CoreCompileInputs.cache
+C:\Users\Emerson Oliveira\Documents\CSharp-Completo-POO\Seção_1_Classes_Atributos_Metodos_MembrosEstáticos\5-ExercicioFixação\ExercicioFixacao\ExercicioFixacao\obj\Debug\net6.0\ExercicioFixacao.dll
+C:\Users\Emerson Oliveira\Documents\CSharp-Completo-POO\Seção_1_Classes_Atributos_Metodos_MembrosEstáticos\5-ExercicioFixação\ExercicioFixacao\ExercicioFixacao\obj\Debug\net6.0\refint\ExercicioFixacao.dll
+C:\Users\Emerson Oliveira\Documents\CSharp-Completo-POO\Seção_1_Classes_Atributos_Metodos_MembrosEstáticos\5-ExercicioFixação\ExercicioFixacao\ExercicioFixacao\obj\Debug\net6.0\ExercicioFixacao.pdb
+C:\Users\Emerson Oliveira\Documents\CSharp-Completo-POO\Seção_1_Classes_Atributos_Metodos_MembrosEstáticos\5-ExercicioFixação\ExercicioFixacao\ExercicioFixacao\obj\Debug\net6.0\ExercicioFixacao.genruntimeconfig.cache
+C:\Users\Emerson Oliveira\Documents\CSharp-Completo-POO\Seção_1_Classes_Atributos_Metodos_MembrosEstáticos\5-ExercicioFixação\ExercicioFixacao\ExercicioFixacao\obj\Debug\net6.0\ref\ExercicioFixacao.dll
