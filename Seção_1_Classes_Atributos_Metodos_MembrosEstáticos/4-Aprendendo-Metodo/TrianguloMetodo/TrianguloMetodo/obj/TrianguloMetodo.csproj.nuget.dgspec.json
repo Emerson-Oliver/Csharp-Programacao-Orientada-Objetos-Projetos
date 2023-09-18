@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Emerson Oliveira\\Documents\\CSharp-Completo-POO\\Seção_1_Classes_Atributos_Metodos_MembrosEstáticos\\2-PrimeiroProgramaUsandoClasses\\PrimeiroProgramaUsandoClasses\\PrimeiroProgramaUsandoClasses.csproj": {}
+    "C:\\Users\\Emerson Oliveira\\Documents\\CSharp-Completo-POO\\Seção_1_Classes_Atributos_Metodos_MembrosEstáticos\\4-Aprendendo-Metodo\\TrianguloMetodo\\TrianguloMetodo\\TrianguloMetodo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Emerson Oliveira\\Documents\\CSharp-Completo-POO\\Seção_1_Classes_Atributos_Metodos_MembrosEstáticos\\2-PrimeiroProgramaUsandoClasses\\PrimeiroProgramaUsandoClasses\\PrimeiroProgramaUsandoClasses.csproj": {
+    "C:\\Users\\Emerson Oliveira\\Documents\\CSharp-Completo-POO\\Seção_1_Classes_Atributos_Metodos_MembrosEstáticos\\4-Aprendendo-Metodo\\TrianguloMetodo\\TrianguloMetodo\\TrianguloMetodo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Emerson Oliveira\\Documents\\CSharp-Completo-POO\\Seção_1_Classes_Atributos_Metodos_MembrosEstáticos\\2-PrimeiroProgramaUsandoClasses\\PrimeiroProgramaUsandoClasses\\PrimeiroProgramaUsandoClasses.csproj",
-        "projectName": "PrimeiroProgramaUsandoClasses",
-        "projectPath": "C:\\Users\\Emerson Oliveira\\Documents\\CSharp-Completo-POO\\Seção_1_Classes_Atributos_Metodos_MembrosEstáticos\\2-PrimeiroProgramaUsandoClasses\\PrimeiroProgramaUsandoClasses\\PrimeiroProgramaUsandoClasses.csproj",
+        "projectUniqueName": "C:\\Users\\Emerson Oliveira\\Documents\\CSharp-Completo-POO\\Seção_1_Classes_Atributos_Metodos_MembrosEstáticos\\4-Aprendendo-Metodo\\TrianguloMetodo\\TrianguloMetodo\\TrianguloMetodo.csproj",
+        "projectName": "TrianguloMetodo",
+        "projectPath": "C:\\Users\\Emerson Oliveira\\Documents\\CSharp-Completo-POO\\Seção_1_Classes_Atributos_Metodos_MembrosEstáticos\\4-Aprendendo-Metodo\\TrianguloMetodo\\TrianguloMetodo\\TrianguloMetodo.csproj",
         "packagesPath": "C:\\Users\\Emerson Oliveira\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Emerson Oliveira\\Documents\\CSharp-Completo-POO\\Seção_1_Classes_Atributos_Metodos_MembrosEstáticos\\2-PrimeiroProgramaUsandoClasses\\PrimeiroProgramaUsandoClasses\\obj\\",
+        "outputPath": "C:\\Users\\Emerson Oliveira\\Documents\\CSharp-Completo-POO\\Seção_1_Classes_Atributos_Metodos_MembrosEstáticos\\4-Aprendendo-Metodo\\TrianguloMetodo\\TrianguloMetodo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,14 @@
+C:\Users\Emerson Oliveira\Documents\CSharp-Completo-POO\Seção_1_Classes_Atributos_Metodos_MembrosEstáticos\4-Aprendendo-Metodo\TrianguloMetodo\TrianguloMetodo\bin\Debug\net6.0\TrianguloMetodo.exe
+C:\Users\Emerson Oliveira\Documents\CSharp-Completo-POO\Seção_1_Classes_Atributos_Metodos_MembrosEstáticos\4-Aprendendo-Metodo\TrianguloMetodo\TrianguloMetodo\bin\Debug\net6.0\TrianguloMetodo.deps.json
+C:\Users\Emerson Oliveira\Documents\CSharp-Completo-POO\Seção_1_Classes_Atributos_Metodos_MembrosEstáticos\4-Aprendendo-Metodo\TrianguloMetodo\TrianguloMetodo\bin\Debug\net6.0\TrianguloMetodo.runtimeconfig.json
+C:\Users\Emerson Oliveira\Documents\CSharp-Completo-POO\Seção_1_Classes_Atributos_Metodos_MembrosEstáticos\4-Aprendendo-Metodo\TrianguloMetodo\TrianguloMetodo\bin\Debug\net6.0\TrianguloMetodo.dll
+C:\Users\Emerson Oliveira\Documents\CSharp-Completo-POO\Seção_1_Classes_Atributos_Metodos_MembrosEstáticos\4-Aprendendo-Metodo\TrianguloMetodo\TrianguloMetodo\bin\Debug\net6.0\TrianguloMetodo.pdb
+C:\Users\Emerson Oliveira\Documents\CSharp-Completo-POO\Seção_1_Classes_Atributos_Metodos_MembrosEstáticos\4-Aprendendo-Metodo\TrianguloMetodo\TrianguloMetodo\obj\Debug\net6.0\TrianguloMetodo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emerson Oliveira\Documents\CSharp-Completo-POO\Seção_1_Classes_Atributos_Metodos_MembrosEstáticos\4-Aprendendo-Metodo\TrianguloMetodo\TrianguloMetodo\obj\Debug\net6.0\TrianguloMetodo.AssemblyInfoInputs.cache
+C:\Users\Emerson Oliveira\Documents\CSharp-Completo-POO\Seção_1_Classes_Atributos_Metodos_MembrosEstáticos\4-Aprendendo-Metodo\TrianguloMetodo\TrianguloMetodo\obj\Debug\net6.0\TrianguloMetodo.AssemblyInfo.cs
+C:\Users\Emerson Oliveira\Documents\CSharp-Completo-POO\Seção_1_Classes_Atributos_Metodos_MembrosEstáticos\4-Aprendendo-Metodo\TrianguloMetodo\TrianguloMetodo\obj\Debug\net6.0\TrianguloMetodo.csproj.CoreCompileInputs.cache
+C:\Users\Emerson Oliveira\Documents\CSharp-Completo-POO\Seção_1_Classes_Atributos_Metodos_MembrosEstáticos\4-Aprendendo-Metodo\TrianguloMetodo\TrianguloMetodo\obj\Debug\net6.0\TrianguloMetodo.dll
+C:\Users\Emerson Oliveira\Documents\CSharp-Completo-POO\Seção_1_Classes_Atributos_Metodos_MembrosEstáticos\4-Aprendendo-Metodo\TrianguloMetodo\TrianguloMetodo\obj\Debug\net6.0\refint\TrianguloMetodo.dll
+C:\Users\Emerson Oliveira\Documents\CSharp-Completo-POO\Seção_1_Classes_Atributos_Metodos_MembrosEstáticos\4-Aprendendo-Metodo\TrianguloMetodo\TrianguloMetodo\obj\Debug\net6.0\TrianguloMetodo.pdb
+C:\Users\Emerson Oliveira\Documents\CSharp-Completo-POO\Seção_1_Classes_Atributos_Metodos_MembrosEstáticos\4-Aprendendo-Metodo\TrianguloMetodo\TrianguloMetodo\obj\Debug\net6.0\TrianguloMetodo.genruntimeconfig.cache
+C:\Users\Emerson Oliveira\Documents\CSharp-Completo-POO\Seção_1_Classes_Atributos_Metodos_MembrosEstáticos\4-Aprendendo-Metodo\TrianguloMetodo\TrianguloMetodo\obj\Debug\net6.0\ref\TrianguloMetodo.dll
