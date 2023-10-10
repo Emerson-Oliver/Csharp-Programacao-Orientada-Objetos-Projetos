@@ -1,0 +1,14 @@
+C:\Users\Emerson Oliveira\Documents\CSharp-Completo-POO\Seção_1_Classes_Atributos_Metodos_MembrosEstáticos\6-Membros Estáticos\ProgramaExemplo\ProgramaExemplo\obj\Debug\net6.0\ProgramaExemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emerson Oliveira\Documents\CSharp-Completo-POO\Seção_1_Classes_Atributos_Metodos_MembrosEstáticos\6-Membros Estáticos\ProgramaExemplo\ProgramaExemplo\obj\Debug\net6.0\ProgramaExemplo.AssemblyInfoInputs.cache
+C:\Users\Emerson Oliveira\Documents\CSharp-Completo-POO\Seção_1_Classes_Atributos_Metodos_MembrosEstáticos\6-Membros Estáticos\ProgramaExemplo\ProgramaExemplo\obj\Debug\net6.0\ProgramaExemplo.AssemblyInfo.cs
+C:\Users\Emerson Oliveira\Documents\CSharp-Completo-POO\Seção_1_Classes_Atributos_Metodos_MembrosEstáticos\6-Membros Estáticos\ProgramaExemplo\ProgramaExemplo\obj\Debug\net6.0\ProgramaExemplo.csproj.CoreCompileInputs.cache
+C:\Users\Emerson Oliveira\Documents\CSharp-Completo-POO\Seção_1_Classes_Atributos_Metodos_MembrosEstáticos\6-Membros Estáticos\ProgramaExemplo\ProgramaExemplo\bin\Debug\net6.0\ProgramaExemplo.exe
+C:\Users\Emerson Oliveira\Documents\CSharp-Completo-POO\Seção_1_Classes_Atributos_Metodos_MembrosEstáticos\6-Membros Estáticos\ProgramaExemplo\ProgramaExemplo\bin\Debug\net6.0\ProgramaExemplo.deps.json
+C:\Users\Emerson Oliveira\Documents\CSharp-Completo-POO\Seção_1_Classes_Atributos_Metodos_MembrosEstáticos\6-Membros Estáticos\ProgramaExemplo\ProgramaExemplo\bin\Debug\net6.0\ProgramaExemplo.runtimeconfig.json
+C:\Users\Emerson Oliveira\Documents\CSharp-Completo-POO\Seção_1_Classes_Atributos_Metodos_MembrosEstáticos\6-Membros Estáticos\ProgramaExemplo\ProgramaExemplo\bin\Debug\net6.0\ProgramaExemplo.dll
+C:\Users\Emerson Oliveira\Documents\CSharp-Completo-POO\Seção_1_Classes_Atributos_Metodos_MembrosEstáticos\6-Membros Estáticos\ProgramaExemplo\ProgramaExemplo\bin\Debug\net6.0\ProgramaExemplo.pdb
+C:\Users\Emerson Oliveira\Documents\CSharp-Completo-POO\Seção_1_Classes_Atributos_Metodos_MembrosEstáticos\6-Membros Estáticos\ProgramaExemplo\ProgramaExemplo\obj\Debug\net6.0\ProgramaExemplo.dll
+C:\Users\Emerson Oliveira\Documents\CSharp-Completo-POO\Seção_1_Classes_Atributos_Metodos_MembrosEstáticos\6-Membros Estáticos\ProgramaExemplo\ProgramaExemplo\obj\Debug\net6.0\refint\ProgramaExemplo.dll
+C:\Users\Emerson Oliveira\Documents\CSharp-Completo-POO\Seção_1_Classes_Atributos_Metodos_MembrosEstáticos\6-Membros Estáticos\ProgramaExemplo\ProgramaExemplo\obj\Debug\net6.0\ProgramaExemplo.pdb
+C:\Users\Emerson Oliveira\Documents\CSharp-Completo-POO\Seção_1_Classes_Atributos_Metodos_MembrosEstáticos\6-Membros Estáticos\ProgramaExemplo\ProgramaExemplo\obj\Debug\net6.0\ProgramaExemplo.genruntimeconfig.cache
+C:\Users\Emerson Oliveira\Documents\CSharp-Completo-POO\Seção_1_Classes_Atributos_Metodos_MembrosEstáticos\6-Membros Estáticos\ProgramaExemplo\ProgramaExemplo\obj\Debug\net6.0\ref\ProgramaExemplo.dll
