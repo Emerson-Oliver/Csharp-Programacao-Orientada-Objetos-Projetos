@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Emerson Oliveira\\Documents\\CSharp-Completo-POO\\Seção_1_Classes_Atributos_Metodos_MembrosEstáticos\\6-Membros Estáticos\\ProgramaExemplo2\\ProgramaExemplo2\\ProgramaExemplo2.csproj": {}
+    "C:\\Users\\emers\\OneDrive\\Documentos\\CSharp-Completo-POO\\Seção_1_Classes_Atributos_Metodos_MembrosEstáticos\\6-Membros Estáticos\\ProgramaExemplo2\\ProgramaExemplo2\\ProgramaExemplo2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Emerson Oliveira\\Documents\\CSharp-Completo-POO\\Seção_1_Classes_Atributos_Metodos_MembrosEstáticos\\6-Membros Estáticos\\ProgramaExemplo2\\ProgramaExemplo2\\ProgramaExemplo2.csproj": {
+    "C:\\Users\\emers\\OneDrive\\Documentos\\CSharp-Completo-POO\\Seção_1_Classes_Atributos_Metodos_MembrosEstáticos\\6-Membros Estáticos\\ProgramaExemplo2\\ProgramaExemplo2\\ProgramaExemplo2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Emerson Oliveira\\Documents\\CSharp-Completo-POO\\Seção_1_Classes_Atributos_Metodos_MembrosEstáticos\\6-Membros Estáticos\\ProgramaExemplo2\\ProgramaExemplo2\\ProgramaExemplo2.csproj",
+        "projectUniqueName": "C:\\Users\\emers\\OneDrive\\Documentos\\CSharp-Completo-POO\\Seção_1_Classes_Atributos_Metodos_MembrosEstáticos\\6-Membros Estáticos\\ProgramaExemplo2\\ProgramaExemplo2\\ProgramaExemplo2.csproj",
         "projectName": "ProgramaExemplo2",
-        "projectPath": "C:\\Users\\Emerson Oliveira\\Documents\\CSharp-Completo-POO\\Seção_1_Classes_Atributos_Metodos_MembrosEstáticos\\6-Membros Estáticos\\ProgramaExemplo2\\ProgramaExemplo2\\ProgramaExemplo2.csproj",
-        "packagesPath": "C:\\Users\\Emerson Oliveira\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Emerson Oliveira\\Documents\\CSharp-Completo-POO\\Seção_1_Classes_Atributos_Metodos_MembrosEstáticos\\6-Membros Estáticos\\ProgramaExemplo2\\ProgramaExemplo2\\obj\\",
+        "projectPath": "C:\\Users\\emers\\OneDrive\\Documentos\\CSharp-Completo-POO\\Seção_1_Classes_Atributos_Metodos_MembrosEstáticos\\6-Membros Estáticos\\ProgramaExemplo2\\ProgramaExemplo2\\ProgramaExemplo2.csproj",
+        "packagesPath": "C:\\Users\\emers\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\emers\\OneDrive\\Documentos\\CSharp-Completo-POO\\Seção_1_Classes_Atributos_Metodos_MembrosEstáticos\\6-Membros Estáticos\\ProgramaExemplo2\\ProgramaExemplo2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Emerson Oliveira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\emers\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
