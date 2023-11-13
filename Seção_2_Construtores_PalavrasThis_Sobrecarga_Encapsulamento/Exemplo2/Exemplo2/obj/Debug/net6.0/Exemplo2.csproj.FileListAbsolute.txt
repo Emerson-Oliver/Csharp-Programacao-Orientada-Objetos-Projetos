@@ -1,0 +1,14 @@
+C:\Users\emers\OneDrive\Documentos\CSharp-Completo-POO\Seção_2_Construtores_PalavrasThis_Sobrecarga_Encapsulamento\Exemplo2\Exemplo2\bin\Debug\net6.0\Exemplo2.exe
+C:\Users\emers\OneDrive\Documentos\CSharp-Completo-POO\Seção_2_Construtores_PalavrasThis_Sobrecarga_Encapsulamento\Exemplo2\Exemplo2\bin\Debug\net6.0\Exemplo2.deps.json
+C:\Users\emers\OneDrive\Documentos\CSharp-Completo-POO\Seção_2_Construtores_PalavrasThis_Sobrecarga_Encapsulamento\Exemplo2\Exemplo2\bin\Debug\net6.0\Exemplo2.runtimeconfig.json
+C:\Users\emers\OneDrive\Documentos\CSharp-Completo-POO\Seção_2_Construtores_PalavrasThis_Sobrecarga_Encapsulamento\Exemplo2\Exemplo2\bin\Debug\net6.0\Exemplo2.dll
+C:\Users\emers\OneDrive\Documentos\CSharp-Completo-POO\Seção_2_Construtores_PalavrasThis_Sobrecarga_Encapsulamento\Exemplo2\Exemplo2\bin\Debug\net6.0\Exemplo2.pdb
+C:\Users\emers\OneDrive\Documentos\CSharp-Completo-POO\Seção_2_Construtores_PalavrasThis_Sobrecarga_Encapsulamento\Exemplo2\Exemplo2\obj\Debug\net6.0\Exemplo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emers\OneDrive\Documentos\CSharp-Completo-POO\Seção_2_Construtores_PalavrasThis_Sobrecarga_Encapsulamento\Exemplo2\Exemplo2\obj\Debug\net6.0\Exemplo2.AssemblyInfoInputs.cache
+C:\Users\emers\OneDrive\Documentos\CSharp-Completo-POO\Seção_2_Construtores_PalavrasThis_Sobrecarga_Encapsulamento\Exemplo2\Exemplo2\obj\Debug\net6.0\Exemplo2.AssemblyInfo.cs
+C:\Users\emers\OneDrive\Documentos\CSharp-Completo-POO\Seção_2_Construtores_PalavrasThis_Sobrecarga_Encapsulamento\Exemplo2\Exemplo2\obj\Debug\net6.0\Exemplo2.csproj.CoreCompileInputs.cache
+C:\Users\emers\OneDrive\Documentos\CSharp-Completo-POO\Seção_2_Construtores_PalavrasThis_Sobrecarga_Encapsulamento\Exemplo2\Exemplo2\obj\Debug\net6.0\Exemplo2.dll
+C:\Users\emers\OneDrive\Documentos\CSharp-Completo-POO\Seção_2_Construtores_PalavrasThis_Sobrecarga_Encapsulamento\Exemplo2\Exemplo2\obj\Debug\net6.0\refint\Exemplo2.dll
+C:\Users\emers\OneDrive\Documentos\CSharp-Completo-POO\Seção_2_Construtores_PalavrasThis_Sobrecarga_Encapsulamento\Exemplo2\Exemplo2\obj\Debug\net6.0\Exemplo2.pdb
+C:\Users\emers\OneDrive\Documentos\CSharp-Completo-POO\Seção_2_Construtores_PalavrasThis_Sobrecarga_Encapsulamento\Exemplo2\Exemplo2\obj\Debug\net6.0\Exemplo2.genruntimeconfig.cache
+C:\Users\emers\OneDrive\Documentos\CSharp-Completo-POO\Seção_2_Construtores_PalavrasThis_Sobrecarga_Encapsulamento\Exemplo2\Exemplo2\obj\Debug\net6.0\ref\Exemplo2.dll
