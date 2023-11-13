@@ -17,8 +17,7 @@ namespace Exemplo3
             Console.Write("Preço: ");
             double preco = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-            Produto p = new Produto(nome, preco);
-
+          
             Produto p2 = new Produto();
 
             Produto p3 = new Produto {
