@@ -1,0 +1,15 @@
+D:\CSharp-Completo-POO\Seção_2_Construtores_PalavrasThis_Sobrecarga_Encapsulamento\3.Properties\Properties\Properties\bin\Debug\net6.0\Properties.exe
+D:\CSharp-Completo-POO\Seção_2_Construtores_PalavrasThis_Sobrecarga_Encapsulamento\3.Properties\Properties\Properties\bin\Debug\net6.0\Properties.deps.json
+D:\CSharp-Completo-POO\Seção_2_Construtores_PalavrasThis_Sobrecarga_Encapsulamento\3.Properties\Properties\Properties\bin\Debug\net6.0\Properties.runtimeconfig.json
+D:\CSharp-Completo-POO\Seção_2_Construtores_PalavrasThis_Sobrecarga_Encapsulamento\3.Properties\Properties\Properties\bin\Debug\net6.0\Properties.dll
+D:\CSharp-Completo-POO\Seção_2_Construtores_PalavrasThis_Sobrecarga_Encapsulamento\3.Properties\Properties\Properties\bin\Debug\net6.0\Properties.pdb
+D:\CSharp-Completo-POO\Seção_2_Construtores_PalavrasThis_Sobrecarga_Encapsulamento\3.Properties\Properties\Properties\obj\Debug\net6.0\Properties.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp-Completo-POO\Seção_2_Construtores_PalavrasThis_Sobrecarga_Encapsulamento\3.Properties\Properties\Properties\obj\Debug\net6.0\Properties.AssemblyInfoInputs.cache
+D:\CSharp-Completo-POO\Seção_2_Construtores_PalavrasThis_Sobrecarga_Encapsulamento\3.Properties\Properties\Properties\obj\Debug\net6.0\Properties.AssemblyInfo.cs
+D:\CSharp-Completo-POO\Seção_2_Construtores_PalavrasThis_Sobrecarga_Encapsulamento\3.Properties\Properties\Properties\obj\Debug\net6.0\Properties.csproj.CoreCompileInputs.cache
+D:\CSharp-Completo-POO\Seção_2_Construtores_PalavrasThis_Sobrecarga_Encapsulamento\3.Properties\Properties\Properties\obj\Debug\net6.0\Properties.sourcelink.json
+D:\CSharp-Completo-POO\Seção_2_Construtores_PalavrasThis_Sobrecarga_Encapsulamento\3.Properties\Properties\Properties\obj\Debug\net6.0\Properties.dll
+D:\CSharp-Completo-POO\Seção_2_Construtores_PalavrasThis_Sobrecarga_Encapsulamento\3.Properties\Properties\Properties\obj\Debug\net6.0\refint\Properties.dll
+D:\CSharp-Completo-POO\Seção_2_Construtores_PalavrasThis_Sobrecarga_Encapsulamento\3.Properties\Properties\Properties\obj\Debug\net6.0\Properties.pdb
+D:\CSharp-Completo-POO\Seção_2_Construtores_PalavrasThis_Sobrecarga_Encapsulamento\3.Properties\Properties\Properties\obj\Debug\net6.0\Properties.genruntimeconfig.cache
+D:\CSharp-Completo-POO\Seção_2_Construtores_PalavrasThis_Sobrecarga_Encapsulamento\3.Properties\Properties\Properties\obj\Debug\net6.0\ref\Properties.dll

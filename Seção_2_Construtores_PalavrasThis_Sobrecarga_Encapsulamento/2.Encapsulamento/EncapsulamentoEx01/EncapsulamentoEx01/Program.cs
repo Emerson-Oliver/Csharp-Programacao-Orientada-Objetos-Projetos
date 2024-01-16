@@ -9,10 +9,10 @@ namespace EmcapsulamentoEx01
         {
             Produto p = new Produto("Nobebook", 500.00, 10);
 
-            p.setNome("T");
+            p.setNome("Notebook Gamer");
 
             Console.WriteLine(p.GetNome());
-            Console.WriteLine(p.GetPreco());
+            Console.WriteLine(p.GetPreco().ToString("F2",CultureInfo.InvariantCulture));
             Console.WriteLine(p.GetQuantidade());
         }
     }

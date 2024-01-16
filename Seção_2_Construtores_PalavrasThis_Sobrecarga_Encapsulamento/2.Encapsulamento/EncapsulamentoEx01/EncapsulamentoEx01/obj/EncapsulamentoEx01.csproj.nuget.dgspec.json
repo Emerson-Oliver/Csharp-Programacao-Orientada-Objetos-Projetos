@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CSharp-Completo-POO\\Seção_2_Construtores_PalavrasThis_Sobrecarga_Encapsulamento\\EncapsulamentoEx01\\EncapsulamentoEx01\\EncapsulamentoEx01.csproj": {}
+    "D:\\CSharp-Completo-POO\\Seção_2_Construtores_PalavrasThis_Sobrecarga_Encapsulamento\\2.Encapsulamento\\EncapsulamentoEx01\\EncapsulamentoEx01\\EncapsulamentoEx01.csproj": {}
   },
   "projects": {
-    "D:\\CSharp-Completo-POO\\Seção_2_Construtores_PalavrasThis_Sobrecarga_Encapsulamento\\EncapsulamentoEx01\\EncapsulamentoEx01\\EncapsulamentoEx01.csproj": {
+    "D:\\CSharp-Completo-POO\\Seção_2_Construtores_PalavrasThis_Sobrecarga_Encapsulamento\\2.Encapsulamento\\EncapsulamentoEx01\\EncapsulamentoEx01\\EncapsulamentoEx01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CSharp-Completo-POO\\Seção_2_Construtores_PalavrasThis_Sobrecarga_Encapsulamento\\EncapsulamentoEx01\\EncapsulamentoEx01\\EncapsulamentoEx01.csproj",
+        "projectUniqueName": "D:\\CSharp-Completo-POO\\Seção_2_Construtores_PalavrasThis_Sobrecarga_Encapsulamento\\2.Encapsulamento\\EncapsulamentoEx01\\EncapsulamentoEx01\\EncapsulamentoEx01.csproj",
         "projectName": "EncapsulamentoEx01",
-        "projectPath": "D:\\CSharp-Completo-POO\\Seção_2_Construtores_PalavrasThis_Sobrecarga_Encapsulamento\\EncapsulamentoEx01\\EncapsulamentoEx01\\EncapsulamentoEx01.csproj",
+        "projectPath": "D:\\CSharp-Completo-POO\\Seção_2_Construtores_PalavrasThis_Sobrecarga_Encapsulamento\\2.Encapsulamento\\EncapsulamentoEx01\\EncapsulamentoEx01\\EncapsulamentoEx01.csproj",
         "packagesPath": "C:\\Users\\Emerson Oliveira\\.nuget\\packages\\",
-        "outputPath": "D:\\CSharp-Completo-POO\\Seção_2_Construtores_PalavrasThis_Sobrecarga_Encapsulamento\\EncapsulamentoEx01\\EncapsulamentoEx01\\obj\\",
+        "outputPath": "D:\\CSharp-Completo-POO\\Seção_2_Construtores_PalavrasThis_Sobrecarga_Encapsulamento\\2.Encapsulamento\\EncapsulamentoEx01\\EncapsulamentoEx01\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
