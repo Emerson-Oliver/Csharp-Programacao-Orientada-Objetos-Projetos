@@ -1,0 +1,15 @@
+C:\Users\Emerson Oliveira\Documents\CSharp-Completo-POO\Seção_2_Construtores_PalavrasThis_Sobrecarga_Encapsulamento\4.AutoProperties\AutoProperties\AutoProperties\bin\Debug\net6.0\AutoProperties.exe
+C:\Users\Emerson Oliveira\Documents\CSharp-Completo-POO\Seção_2_Construtores_PalavrasThis_Sobrecarga_Encapsulamento\4.AutoProperties\AutoProperties\AutoProperties\bin\Debug\net6.0\AutoProperties.deps.json
+C:\Users\Emerson Oliveira\Documents\CSharp-Completo-POO\Seção_2_Construtores_PalavrasThis_Sobrecarga_Encapsulamento\4.AutoProperties\AutoProperties\AutoProperties\bin\Debug\net6.0\AutoProperties.runtimeconfig.json
+C:\Users\Emerson Oliveira\Documents\CSharp-Completo-POO\Seção_2_Construtores_PalavrasThis_Sobrecarga_Encapsulamento\4.AutoProperties\AutoProperties\AutoProperties\bin\Debug\net6.0\AutoProperties.dll
+C:\Users\Emerson Oliveira\Documents\CSharp-Completo-POO\Seção_2_Construtores_PalavrasThis_Sobrecarga_Encapsulamento\4.AutoProperties\AutoProperties\AutoProperties\bin\Debug\net6.0\AutoProperties.pdb
+C:\Users\Emerson Oliveira\Documents\CSharp-Completo-POO\Seção_2_Construtores_PalavrasThis_Sobrecarga_Encapsulamento\4.AutoProperties\AutoProperties\AutoProperties\obj\Debug\net6.0\AutoProperties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emerson Oliveira\Documents\CSharp-Completo-POO\Seção_2_Construtores_PalavrasThis_Sobrecarga_Encapsulamento\4.AutoProperties\AutoProperties\AutoProperties\obj\Debug\net6.0\AutoProperties.AssemblyInfoInputs.cache
+C:\Users\Emerson Oliveira\Documents\CSharp-Completo-POO\Seção_2_Construtores_PalavrasThis_Sobrecarga_Encapsulamento\4.AutoProperties\AutoProperties\AutoProperties\obj\Debug\net6.0\AutoProperties.AssemblyInfo.cs
+C:\Users\Emerson Oliveira\Documents\CSharp-Completo-POO\Seção_2_Construtores_PalavrasThis_Sobrecarga_Encapsulamento\4.AutoProperties\AutoProperties\AutoProperties\obj\Debug\net6.0\AutoProperties.csproj.CoreCompileInputs.cache
+C:\Users\Emerson Oliveira\Documents\CSharp-Completo-POO\Seção_2_Construtores_PalavrasThis_Sobrecarga_Encapsulamento\4.AutoProperties\AutoProperties\AutoProperties\obj\Debug\net6.0\AutoProperties.sourcelink.json
+C:\Users\Emerson Oliveira\Documents\CSharp-Completo-POO\Seção_2_Construtores_PalavrasThis_Sobrecarga_Encapsulamento\4.AutoProperties\AutoProperties\AutoProperties\obj\Debug\net6.0\AutoProperties.dll
+C:\Users\Emerson Oliveira\Documents\CSharp-Completo-POO\Seção_2_Construtores_PalavrasThis_Sobrecarga_Encapsulamento\4.AutoProperties\AutoProperties\AutoProperties\obj\Debug\net6.0\refint\AutoProperties.dll
+C:\Users\Emerson Oliveira\Documents\CSharp-Completo-POO\Seção_2_Construtores_PalavrasThis_Sobrecarga_Encapsulamento\4.AutoProperties\AutoProperties\AutoProperties\obj\Debug\net6.0\AutoProperties.pdb
+C:\Users\Emerson Oliveira\Documents\CSharp-Completo-POO\Seção_2_Construtores_PalavrasThis_Sobrecarga_Encapsulamento\4.AutoProperties\AutoProperties\AutoProperties\obj\Debug\net6.0\AutoProperties.genruntimeconfig.cache
+C:\Users\Emerson Oliveira\Documents\CSharp-Completo-POO\Seção_2_Construtores_PalavrasThis_Sobrecarga_Encapsulamento\4.AutoProperties\AutoProperties\AutoProperties\obj\Debug\net6.0\ref\AutoProperties.dll
